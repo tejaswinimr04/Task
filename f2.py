@@ -1,0 +1,1 @@
+print('how tto take input')
