@@ -1,1 +1,1 @@
-print('how tto take input')
+print('how to take input')
